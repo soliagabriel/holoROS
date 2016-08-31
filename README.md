@@ -1,6 +1,7 @@
 # holoROS
 
 ROS integration with HoloLens
+
 This project aimed the integration between ROS and the Microsoft augmented reality glass, HoloLens. The goal was to be able to access and obtain full control of a ROS node from HL. The chosen node was the turtlesim, a default node that mostly ROS users have access.
 The idea was to build a HL application that could simulate and control the turtlesim node using HL features. HL apps are built and deployed to the device using Unity, so the environment needed to be built using this game engine. The turtlesim environment built in Unity consists in: 
 

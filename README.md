@@ -161,4 +161,5 @@ b)	Connecting and running on HoloLens
 •	If you wish to disconnect from the ROS environment, perform another select gesture in the connector button that is now highlighted. After that, the button and the plane should return to its standard state and you should be able to see in the Rosbridge node in ROS that a client disconnected. While disconnected you can enter in placing mode and place the environment anywhere you want (as long it is in a position where none of its area gets compromised by the virtual meshes) and connect to ROS again.
 
 Gabriel Santos Solia
+
 Doubts? gabriel.solia@gmail.com
